@@ -1,0 +1,2 @@
+# DjangoProject
+Location slick
